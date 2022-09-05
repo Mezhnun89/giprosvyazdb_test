@@ -1,0 +1,1 @@
+CREATE DATABASE giprosvyazdb_test;
